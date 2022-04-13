@@ -1,8 +1,12 @@
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/peterdonald3?cardType=level&Title=FFFFFF&Background=32325D&Text=FFFFFF&Ring=FFFFFF&Border=000000)](https://git.io/awesome-stats-card)
+![peterdonald3's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterdonald3&count_private=true&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdonald3&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdonald3)](https://github.com/peterdonald3/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxedio&repo=iso3166&theme=chartreuse-dark)](https://github.com/taxedio/iso3166)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxedio&repo=iso4217&theme=chartreuse-dark)](https://github.com/taxedio/iso4217)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxedio&repo=overthere&theme=chartreuse-dark)](https://github.com/taxedio/overthere)
 <span>
 <br>
   <a href="https://www.linkedin.com/in/peter-donald-79938b9a/">
