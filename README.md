@@ -7,6 +7,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxedio&repo=iso4217&theme=chartreuse-dark)](https://github.com/taxedio/iso4217)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxedio&repo=overthere&theme=chartreuse-dark)](https://github.com/taxedio/overthere)
+
+[![peterdonald3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peterdonald3)](https://github.com/anuraghazra/github-readme-stats)
 <span>
 <br>
   <a href="https://www.linkedin.com/in/peter-donald-79938b9a/">
